@@ -1,0 +1,15 @@
+{
+    "workbench.colorCustomizations": {
+      "activityBar.background": "#24320B",
+      "titleBar.activeBackground": "#33460F",
+      "titleBar.activeForeground": "#F8FCF1"
+    },
+    "java.project.referencedLibraries": [
+      "lib\\json-20230618.jar",
+      "c:\\Users\\alona\\OneDrive\\שולחן העבודה\\lightrics\\lib\\json-20230618.jar"
+    ],
+    "java.project.sourcePaths": [
+      "."
+    ]
+  }
+  

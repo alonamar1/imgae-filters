@@ -1,0 +1,30 @@
+{
+  "input": "input.png",
+  "output": "output.png",
+  "display": true,
+  "operations": [
+    {
+      "type": "brightness",
+      "value": 0.6
+    },
+    {
+      "type": "box",
+      "width": 5,
+      "height": 3
+    },
+    {
+      "type": "contrast",
+      "factor": 0.5
+    },
+    {
+      "type": "saturation",
+      "factor": 0.8
+    },
+    {
+      "type": "sharpen"
+    }
+  ]
+}
+
+  
+
